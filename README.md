@@ -1,5 +1,5 @@
 # spring-mvc-Exercise2
-Create annotation based Spring MVC application which has following feature:
+Creating xml based Spring MVC application which has following feature:
 
         A Login form having 2 text field - userName , userPassword
 
